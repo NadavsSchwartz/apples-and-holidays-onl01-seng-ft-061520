@@ -60,7 +60,7 @@ holiday_hash.each do |season, holidays|
       puts "  #{string_holiday.join(' ')}: #{holiday_hash[season][holiday].join(', ')}"
     end
   end
-end	end
+end
 
 end
 
